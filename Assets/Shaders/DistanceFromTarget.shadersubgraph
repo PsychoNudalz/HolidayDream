@@ -196,9 +196,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -218.00003051757813,
-            "y": -32.0,
-            "width": 205.60003662109376,
+            "x": -217.59999084472657,
+            "y": 0.000006172180292196572,
+            "width": 206.39999389648438,
             "height": 128.79998779296876
         }
     },
@@ -404,7 +404,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "OutVector1",
     "m_StageCapability": 3,
-    "m_Value": 0.0,
+    "m_Value": 1.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }

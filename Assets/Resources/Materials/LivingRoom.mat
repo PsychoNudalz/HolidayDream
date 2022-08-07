@@ -73,9 +73,9 @@ Material:
     - _DisplacementNoiseSApeed: {r: 0, g: 0.1, b: 0, a: 0}
     - _DisplacementNoiseSpeed: {r: 0, g: 0.01, b: 0, a: 0}
     - _DisplacementRange: {r: 3, g: 50, b: 0, a: 0}
-    - _DisplacementUpDownRange: {r: 5, g: 20, b: 0, a: 0}
+    - _DisplacementUpDownRange: {r: 4, g: 20, b: 0, a: 0}
     - _DisplacementUpDownSpeed: {r: 0, g: 0.01, b: 0, a: 0}
     - _GlowColour: {r: 1.9999998, g: 1.9999998, b: 1.9999998, a: 0}
     - _GlowDistance: {r: 3, g: 5, b: 0, a: 0}
-    - _PlayerPos: {r: 2.6330264, g: 1.6494203, b: 2.110586, a: 0}
+    - _PlayerPos: {r: 0, g: 1.661, b: 0.131, a: 0}
   m_BuildTextureStacks: []
